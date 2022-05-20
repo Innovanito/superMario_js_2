@@ -1,0 +1,26 @@
+{
+  "name": "supermario_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Innovanito/superMario_js.git"
+  },
+  "keywords": [
+    "superMario_made_with_js"
+  ],
+  "author": "Solomon_Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Innovanito/superMario_js/issues"
+  },
+  "homepage": "https://github.com/Innovanito/superMario_js#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
